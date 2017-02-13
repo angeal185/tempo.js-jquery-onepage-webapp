@@ -1,0 +1,23 @@
+﻿
+var socialTop = [
+	{'href':'#','icon':'github'},
+	{'href':'#','icon':'codepen'},
+	{'href':'#','icon':'linkedin'},
+	{'href':'#','icon':'facebook'},
+	{'href':'#','icon':'twitter'}
+];
+
+var servicesData = [
+	{'direction':'left','icon':'code','heading':'Add heading here','info':'An dicat libris intellegam sea, dicit mollis id vel. Utroque iracundia duo et, vim diceret cotidieque eu.'},
+	{'direction':'top','icon':'star-o','heading':'Add heading here','info':'An dicat libris intellegam sea, dicit mollis id vel. Utroque iracundia duo et, vim diceret cotidieque eu.'},
+	{'direction':'right','icon':'cogs','heading':'Add heading here','info':'An dicat libris intellegam sea, dicit mollis id vel. Utroque iracundia duo et, vim diceret cotidieque eu.'},
+	{'direction':'left','icon':'laptop','heading':'Add heading here','info':'An dicat libris intellegam sea, dicit mollis id vel. Utroque iracundia duo et, vim diceret cotidieque eu.'},
+	{'direction':'top','icon':'eye','heading':'Add heading here','info':'An dicat libris intellegam sea, dicit mollis id vel. Utroque iracundia duo et, vim diceret cotidieque eu.'},
+	{'direction':'right','icon':'pencil','heading':'Add heading here','info':'An dicat libris intellegam sea, dicit mollis id vel. Utroque iracundia duo et, vim diceret cotidieque eu.'}
+];
+  
+var aboutData = [
+	{'direction':'left','img':'1.jpg','name':'Add name here','info':'Bonorum gubergren pro id. Ea pro soluta dissentiet, no alii pertinacia quo, populo legimus cum in. Ad eam falli iudico, quis patrioque definiebas ne','hrefA':'#','hrefB':'#','hrefC':'#','hrefD':'#'},
+	{'direction':'top','img':'1.jpg','name':'Add name here','info':'Bonorum gubergren pro id. Ea pro soluta dissentiet, no alii pertinacia quo, populo legimus cum in. Ad eam falli iudico, quis patrioque definiebas ne','hrefA':'#','hrefB':'#','hrefC':'#','hrefD':'#'},
+	{'direction':'right','img':'1.jpg','name':'Add name here','info':'Bonorum gubergren pro id. Ea pro soluta dissentiet, no alii pertinacia quo, populo legimus cum in. Ad eam falli iudico, quis patrioque definiebas ne','hrefA':'#','hrefB':'#','hrefC':'#','hrefD':'#'}
+];

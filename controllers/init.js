@@ -1,0 +1,12 @@
+$('body').prepend(loaderTpl),
+$('#page-loader').after(headerTpl),
+$('#top').after(counterTpl),
+$('.countdown-section').after(servicesTpl),
+$('.services').after(subscribeTpl),
+$('.subscribe').after(aboutTpl),
+$('.about').after(contactTpl),
+$('.contact').after(mapTpl),
+$('.google-map').after(footerTpl);
+Tempo.prepare("socialTop").render(socialTop);
+Tempo.prepare("servicesData").render(servicesData);
+Tempo.prepare("aboutData").render(aboutData);
